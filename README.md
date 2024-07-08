@@ -1,5 +1,5 @@
 ## NeoVim Configs
-This repository contains my personal configuration for Nvim, including all plugins configuration using Lua programming language.
+This repository contains my personal configuration for Nvim, including all plugins and configurations using Lua programming language.
 I'm running it using ITerm (Termminal) and a Macbook M1.
 
 ### Plugin Manager
