@@ -2,8 +2,6 @@
 This repository contains my personal configuration for Nvim, including all plugins configuration using Lua programming language.
 I'm running it using ITerm (Termminal) and a Macbook M1.
 
-https://github.com/guicazaroto/nvim/assets/9921030/db115d70-7037-4978-9c78-75494ac095ab
-
 ### Plugin Manager
 I'm using **lazy.nvim** to manager my plugins.
 To know more: https://github.com/folke/lazy.nvim
@@ -26,3 +24,6 @@ These are the list of Nvim plugins that I'm using to have a descent Text Editor.
 - nvim-treesitter: Better code parsing and syntax highlighting.
 - nvim-web-devicons: Icons for Neovim plugins.
 - telescope.nvim: Highly extensible fuzzy finder for Neovim.
+
+### Screen Record
+https://github.com/guicazaroto/nvim/assets/9921030/db115d70-7037-4978-9c78-75494ac095ab
